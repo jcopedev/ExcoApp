@@ -21,5 +21,5 @@ That's all I have so far, and nothing is set in stone, but some features I'm ver
 <br>
 pages: <br>
 http://localhost/excoapp/excoapp <br>
-http://localhost/excoapp/excoapp/timeline.html <br>
+http://localhost/excoapp/excoapp/limitedtimeline.html <br>
 http://localhost/excoapp/excoapp/authenticate.html<br>
