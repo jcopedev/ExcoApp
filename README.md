@@ -1,7 +1,7 @@
 Instructions/README
 
-Open CMD prompt
-Navigate to your xampp htdocs folder (Mine is C:\xampp\htdocs, but yours might be different
+Open CMD prompt<br>
+Navigate to your xampp htdocs folder (Mine is C:\xampp\htdocs, but yours might be different<br>
 git stuff
 
 Make sure to also transfer the appconfig.js into this folder, that I gave you on discord
