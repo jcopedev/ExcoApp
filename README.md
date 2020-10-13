@@ -7,7 +7,7 @@ git clone https://github.com/jcopedev/ExcoApp.git
 
 ~~Make sure to also transfer the appconfig.js into this folder, that I gave you on discord~~
 
-Start Xampp <br>
+Start Xampp (run as administrator) <br>
 Start Apache--We don't need SQL ;-) <br>
 Navigate to: localhost/excoapp/excoapp<br>
 The index.html should come automatically <br>
