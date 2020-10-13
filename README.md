@@ -5,7 +5,7 @@ Navigate to your xampp htdocs folder (Mine is C:\xampp\htdocs, but yours might b
 
 git clone https://github.com/jcopedev/ExcoApp.git
 
-~~Make sure to also transfer the appconfig.js into this folder, that I gave you on discord
+~~Make sure to also transfer the appconfig.js into this folder, that I gave you on discord~~
 
 Start Xampp <br>
 Start Apache--We don't need SQL ;-) <br>
